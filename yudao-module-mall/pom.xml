@@ -26,6 +26,8 @@
         <module>yudao-module-trade-biz</module>
         <module>yudao-module-statistics-api</module>
         <module>yudao-module-statistics-biz</module>
+        <module>yudao-module-trade-cola-client</module>
+        <module>yudao-module-trade-cola</module>
     </modules>
 
 </project>
